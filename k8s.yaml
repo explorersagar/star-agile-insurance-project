@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: insurance-eta-container
-        image: sagardhumma/insurerance-app
+        image: sagardhumma/insurance-app
         ports:
         - containerPort: 8081
 ---
